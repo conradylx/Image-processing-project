@@ -29,3 +29,5 @@ To run the project please go to APO_16035\APO_16035\bin\Debug then launch APO_16
 2) Image histogram stretching
 3) Image histogram alignment
 4) Thresholding.
+
+And more.
