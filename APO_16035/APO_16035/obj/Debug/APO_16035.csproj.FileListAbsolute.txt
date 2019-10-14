@@ -1,0 +1,49 @@
+Z:\PROJEKT VIISEMESTR OBRAZY\APO_16035\APO_16035\bin\Debug\APO_16035.exe.config
+Z:\PROJEKT VIISEMESTR OBRAZY\APO_16035\APO_16035\bin\Debug\APO_16035.exe
+Z:\PROJEKT VIISEMESTR OBRAZY\APO_16035\APO_16035\bin\Debug\APO_16035.pdb
+Z:\PROJEKT VIISEMESTR OBRAZY\APO_16035\APO_16035\obj\Debug\APO_16035.csprojResolveAssemblyReference.cache
+Z:\PROJEKT VIISEMESTR OBRAZY\APO_16035\APO_16035\obj\Debug\APO_16035.Form1.resources
+Z:\PROJEKT VIISEMESTR OBRAZY\APO_16035\APO_16035\obj\Debug\APO_16035.Properties.Resources.resources
+Z:\PROJEKT VIISEMESTR OBRAZY\APO_16035\APO_16035\obj\Debug\APO_16035.csproj.GenerateResource.Cache
+Z:\PROJEKT VIISEMESTR OBRAZY\APO_16035\APO_16035\obj\Debug\APO_16035.exe
+Z:\PROJEKT VIISEMESTR OBRAZY\APO_16035\APO_16035\obj\Debug\APO_16035.pdb
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\APO_16035.exe.config
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\APO_16035.exe
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\APO_16035.pdb
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\obj\Debug\APO_16035.csprojAssemblyReference.cache
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\obj\Debug\APO_16035.Properties.Resources.resources
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\obj\Debug\APO_16035.csproj.GenerateResource.cache
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\obj\Debug\APO_16035.exe
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\obj\Debug\APO_16035.pdb
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x64\concrt140.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x64\cvextern.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x64\msvcp140.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x64\vcruntime140.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x86\concrt140.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x86\cvextern.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x86\msvcp140.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\x86\vcruntime140.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\Emgu.CV.UI.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\Emgu.CV.World.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\ZedGraph.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\Emgu.CV.UI.xml
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\Emgu.CV.World.xml
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\ZedGraph.xml
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\obj\Debug\APO_16035.csproj.CopyComplete
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\obj\Debug\APO_16035.Histogram.resources
+C:\Users\frank\OneDrive\Dokumenty\Workspace\Projekt Obrazy\APO_16035\APO_16035\APO_16035\obj\Debug\APO_16035.Main.resources
