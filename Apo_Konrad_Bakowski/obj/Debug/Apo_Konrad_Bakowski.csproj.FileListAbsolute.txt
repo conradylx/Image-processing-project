@@ -1,0 +1,109 @@
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.csprojResolveAssemblyReference.cache
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.DualMask33Form.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.EdgeDetectionForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.HistogramForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.ImageAnalysisForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.ImageForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.MainWindow.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.MaskCreator.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.MedianFilteringValueForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.PosterizationForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.Properties.Resources.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.SharpeningForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.StrechingForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.ThresholdGrayLevelForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.TresholdForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.ValuePickerForm.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.csproj.GenerateResource.Cache
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\concrt140.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\cvextern.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\msvcp140.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\vcruntime140.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\concrt140.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\cvextern.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\msvcp140.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\vcruntime140.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Apo_Konrad_Bakowski.exe.config
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Apo_Konrad_Bakowski.exe
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Apo_Konrad_Bakowski.pdb
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Emgu.CV.World.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\ZedGraph.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Emgu.CV.World.xml
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\ZedGraph.xml
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.exe
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.pdb
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.Form1.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.SmootingFormv2.resources
+C:\Users\Jaa\Desktop\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.Sharpeningv3.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\concrt140.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\cvextern.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\msvcp140.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x64\vcruntime140.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\concrt140.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\cvextern.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\msvcp140.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\x86\vcruntime140.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Apo_Konrad_Bakowski.exe.config
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Apo_Konrad_Bakowski.exe
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Apo_Konrad_Bakowski.pdb
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Emgu.CV.UI.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Emgu.CV.World.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\ZedGraph.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Emgu.CV.UI.xml
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\Emgu.CV.World.xml
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\ZedGraph.xml
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.csprojAssemblyReference.cache
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.DualMask33Form.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.EdgeDetectionForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.Form1.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.HistogramForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.ImageAnalysisForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.ImageForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.MainWindow.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.MaskCreator.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.MedianFilteringValueForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.PosterizationForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.Properties.Resources.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.SharpeningForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.Sharpeningv3.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.SmootingFormv2.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.StrechingForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.ThresholdGrayLevelForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.TresholdForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.ValuePickerForm.resources
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.csproj.GenerateResource.cache
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.csproj.CopyComplete
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.exe
+C:\Users\frank\Downloads\Konrad apo\Konrad apo\apo\Apo_Konrad_Bakowski\Apo_Konrad_Bakowski\obj\Debug\Apo_Konrad_Bakowski.pdb
