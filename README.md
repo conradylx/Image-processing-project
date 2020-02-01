@@ -17,7 +17,8 @@ Project uses a number of open source projects to work properly:
 
 ### Installation
 
-To run the project please go to APO_16035\APO_16035\bin\Debug then launch APO_16035.exe file.
+To run the project please go to Image-processing-project/Apo_Konrad_Bakowski/ then select .sln file.
+ file.
 
 ### Actually progress
 1) Designed graphic user interface.
