@@ -26,9 +26,9 @@ To run the project please go to Image-processing-project/Apo_Konrad_Bakowski/ th
 
 ### Todos (at the moment)
 
-1) Implement image negation
-2) Image histogram stretching
-3) Image histogram alignment
-4) Thresholding.
+1) Implement image negation - done
+2) Image histogram stretching - done
+3) Image histogram alignment - done
+4) Thresholding - done
 
 And more.
